@@ -5,7 +5,6 @@
 To create an **abstract class** named `Shape` with an **abstract method** `calculate_area`, and implement this method in two subclasses: `Rectangle` and `Circle`.
 
 ---
-
 ## 🧠 ALGORITHM
 
 1. **Import ABC module**:
